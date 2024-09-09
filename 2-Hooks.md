@@ -7,7 +7,7 @@ React Hooks provide a powerful and flexible way to manage state and side effects
 ### 1. Managing State
 
 - React hooks are used to manage state. Hooks like `useState` and `useReducer` enable functional components to maintain internal state.
-- This is crucial for scenarios where components need to remember user inputs or manage dynamic data without converting to class components. Read more [States in React](./2.1-State.md)
+- This is crucial for scenarios where components need to remember user inputs or manage dynamic data without converting to class components.
 
 ### 2. Handling Side Effects
 
@@ -25,4 +25,4 @@ React Hooks provide a powerful and flexible way to manage state and side effects
 ### 5. Context Management
 
 - The `useContext` Hook allows components to access context values directly, eliminating the need for prop drilling.
-- 
+-
